@@ -1,2 +1,2 @@
 # kaggle
-Kaggle projects and competitions
+A repo containing work on kaggle projects and competitions.
